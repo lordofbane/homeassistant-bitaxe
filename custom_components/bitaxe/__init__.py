@@ -1,4 +1,4 @@
-DOMAIN = "bitaxe_integration"
+DOMAIN = "bitaxe"
 
 async def async_setup_entry(hass, entry):
     hass.async_create_task(
