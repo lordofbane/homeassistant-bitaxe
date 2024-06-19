@@ -59,11 +59,11 @@ class BitaxePowerSensor(BitaxeSensor):
 
 class BitaxeVoltageSensor(BitaxeSensor):
     def __init__(self, name, ip_address):
-        super().__init__(name, "V", "voltage", ip_address)
+        super().__init__(name, "mV", "voltage", ip_address)
 
 class BitaxeCurrentSensor(BitaxeSensor):
     def __init__(self, name, ip_address):
-        super().__init__(name, "A", "current", ip_address)
+        super().__init__(name, "mA", "current", ip_address)
 
 class BitaxeFanSpeedSensor(BitaxeSensor):
     def __init__(self, name, ip_address):
