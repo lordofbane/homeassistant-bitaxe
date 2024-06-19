@@ -75,4 +75,4 @@ class BitaxeTempSensor(BitaxeSensor):
 
 class BitaxeHashRateSensor(BitaxeSensor):
     def __init__(self, name, ip_address):
-        super().__init__(name, "H/s", "hashRate", ip_address)
+        super().__init__(name, "GH/s", "hashRate", ip_address)
