@@ -1,6 +1,6 @@
 {
-  "domain": "bitaxe_integration",
-  "name": "Bitaxe Integration",
+  "domain": "bitaxe",
+  "name": "Bitaxe",
   "version": "1.0",
   "requirements": [],
   "dependencies": [],
