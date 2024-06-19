@@ -1,0 +1,17 @@
+{
+  "domain": "bitaxe_integration",
+  "name": "Bitaxe Integration",
+  "version": "1.0",
+  "requirements": [],
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@NessaAnarion"],
+  "iot_class": "local_polling",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}

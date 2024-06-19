@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure your Bitaxe",
+        "description": "Enter the details of your Bitaxe device.",
+        "data": {
+          "name": "Name",
+          "ip_address": "IP Address",
+          "stratum_url": "Stratum URL",
+          "stratum_port": "Stratum Port"
+        }
+      }
+    }
+  }
+}
