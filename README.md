@@ -4,7 +4,7 @@ This is a custom integration to monitor your Bitaxe device in Home Assistant.
 
 ## Installation
 
-1. Clone this repository into your `custom_components` directory.
+1. Clone this repository into your `custom_components` directory. You can import this repository to HACS too.
 2. Restart Home Assistant.
 3. Add the integration via the Home Assistant UI.
 
