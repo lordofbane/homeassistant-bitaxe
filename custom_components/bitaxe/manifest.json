@@ -4,9 +4,9 @@
   "version": "1.0",
   "requirements": [],
   "dependencies": [],
-  "documentation": "https://github.com/NessaAnarion/homeassistant-bitaxe/blob/main/README.md",
+  "documentation": "https://github.com/lordofbane/homeassistant-bitaxe/blob/main/README.md",
   "config_flow": true,
-  "codeowners": ["@NessaAnarion"],
+  "codeowners": ["@lordofbane"],
   "iot_class": "local_polling",
   "icons": [
     {
